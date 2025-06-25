@@ -1,8 +1,8 @@
 export const projects = [
   {
     id: 1,
-    title: "E-Commerce UI",
-    description: "Built with React & Tailwind",
+    title: "OBI Seller onboarding",
+    description: "Built with Vue, React, VTEX and Tailwind",
     link: "#",
     image: "/OBI PROJECT.png",
     about:
@@ -33,8 +33,8 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Portfolio Site",
-    description: "Next.js App Router + SEO",
+    title: "Carrefour Financial Services",
+    description: "VueJs, Nuxt.js App Router + SEO, and Bloomreach",
     link: "#",
     image: "/C4FS PROJECT.png",
     about:
@@ -61,8 +61,8 @@ export const projects = [
   },
   {
     id: 3,
-    title: "E-Commerce UI",
-    description: "Built with React & Tailwind",
+    title: "Grapnel",
+    description: "Built with Angular & Tailwind",
     link: "#",
     image: "/GRAPNEL PROJECT.png",
     about:

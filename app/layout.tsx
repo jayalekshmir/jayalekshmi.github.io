@@ -29,11 +29,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased h-lvh max-w-[1440px] m-auto`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <Navbar />
-          <main className=" app p-2 m-2 lg:p-6 lg:m-12 ">{children}</main>
+          <main className="app">{children}</main>
           <Footer />
         </ThemeProvider>
       </body>
