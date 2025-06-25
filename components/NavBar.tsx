@@ -15,10 +15,12 @@ const NavBar = () => {
         <Link href={`#work`}>Work</Link>
         <Link href={`#journewy`}>Journey</Link>
         <span>Testimonials</span>
-        <Link href={`/contact`}>Contact</Link>
-        <Link href={`/blogs`}>Blog</Link>
+        <span>Contact</span>
+        <span>Blog</span>
       </div>
-      <Link href={`https://www.linkedin.com/in/jayalekshmir/`} target="_blank">Beyond Bio</Link>
+      <Link href={`https://www.linkedin.com/in/jayalekshmir/`} target="_blank">
+        Beyond Bio
+      </Link>
     </nav>
   );
 };
