@@ -2,11 +2,14 @@ import React from 'react'
 
 export default function Journey() {
   return (
-    <section className="flex bg-gray-50 flex-col items-center justify-center text-left p-2 lg:p-8">
-      <h3 className="text-2xl lg:text-4xl font-bold pb-8">
+    <section
+      className="m-auto flex bg-gray-50 flex-col items-center justify-center text-left p-4 lg:p-8"
+      id="journey"
+    >
+      <h3 className="text-2xl lg:text-4xl font-bold pb-4 lg:pb-8">
         A bit about my Journey
       </h3>
-      <div className="">
+      <div className="max-w-[1440px] m-auto lg:px-8 ">
         <p>
           I am currently working as a Packaged App Development Specialist with
           over 7 years of experience, specializing in frontend technologies. I

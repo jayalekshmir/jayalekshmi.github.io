@@ -2,12 +2,18 @@ import { projects } from "@/models/user";
 import Image from "next/image";
 export default function Work() {
   return (
-    <section className="flex flex-col items-center justify-center text-left p-2 lg:p-8">
+    <section
+      className="max-w-[1440px] m-auto flex flex-col items-center justify-center text-left p-2 lg:p-8"
+      id="work"
+    >
       <h3 className="text-2xl lg:text-4xl font-bold pb-8">Work</h3>
-      <span>Checkout my work</span>
+      <span className="mb-2 lg:mb-4">
+        Check out some of my recent projects – awesome web apps I’ve contributed
+        to using modern frameworks, clean design, and scalable code.
+      </span>
       <div className="flex lg:flex-row flex-col overflow-auto overflow-x-auto w-full justify-center m-auto">
         {projects.map((project) => (
-          <div className="p-4 w-full lg:w-1/2" key={project.id}>
+          <div className="p-2 lg:p-4 w-full lg:w-1/2" key={project.id}>
             <div className="max-h-100 overflow-hidden">
               <Image
                 src={project.image}
