@@ -17,11 +17,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${inter.className} ${poppins.className} antialiased`}>
+    <html lang="en" className="scroll-smooth">
+      <body
+        className={`${inter.className} ${poppins.className} antialiased flex flex-col min-h-screen`}
+      >
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <Navbar />
-          <main className="app">{children}</main>
+          <main className="app flex-1">{children}</main>
           <Footer />
         </ThemeProvider>
       </body>

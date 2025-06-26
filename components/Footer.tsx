@@ -2,7 +2,7 @@ import SocialLinks from "./SocialLinks";
 
 export default function Footer() {
   return (
-    <footer className="flex p-4 mt-6 bg-sky-950 text-white  m-auto flex-col items-center gap-2 text-center h-full lg:h-[500px]">
+    <footer className="flex p-4 mt-6 bg-sky-950 text-white flex-col items-center gap-2 text-center h-full lg:h-[500px]">
       <div className="mt-4 lg:mt-8 p-8 text-xl">Worked with these companies</div>
       <div className="text-lg lg:text-4xl my-5 w-1/2 flex flex-wrap justify-center gap-8 h-full lg:h-[300px] italic text-3xl">
         <span>Accenture</span>
