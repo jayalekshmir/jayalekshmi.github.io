@@ -3,7 +3,7 @@ import React from 'react'
 export default function Journey() {
   return (
     <section
-      className=" mx-auto my-4 lg:my-8 flex bg-gray-50 flex-col items-center justify-center text-left p-4 lg:p-8"
+      className=" mx-auto my-4 lg:my-8 flex flex-col items-center justify-center text-left p-4 lg:p-8"
       id="journey"
     >
       <h3 className="text-2xl lg:text-4xl font-bold pb-4 lg:pb-8">
