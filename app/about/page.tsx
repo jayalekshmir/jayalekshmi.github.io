@@ -1,8 +1,8 @@
 
 function About() {
   return (
-    <div>About page</div>
-  )
+    <div className="flex justify-center items center h-full">About page</div>
+  );
 }
 
 export default About;

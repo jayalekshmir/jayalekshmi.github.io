@@ -8,7 +8,7 @@ const NavBar = () => {
         <Link href={`/`}>JAYALEKSHMI R</Link>
         <div className="hidden md:flex gap-4 ">
           <Link href={`#work`}>Work</Link>
-          <Link href={`#journewy`}>Journey</Link>
+          <Link href={`#journey`}>Journey</Link>
           <span>Testimonials</span>
           <span>Contact</span>
           <span>Blog</span>

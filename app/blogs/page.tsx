@@ -1,7 +1,7 @@
 
 const Blog = () => {
   return (
-    <div>Blog</div>
+    <div className="flex justify-center items center h-full">Loading</div>
   )
 }
 
