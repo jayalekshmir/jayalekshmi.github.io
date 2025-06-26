@@ -1,21 +1,9 @@
 import type { Metadata } from "next";
-import { Inter, Poppins } from "next/font/google";
 import "../styles/globals.css";
 import { ThemeProvider } from "next-themes";
 import Navbar from "@/components/NavBar";
 import Footer from "@/components/Footer";
-
-
-export const inter = Inter({
-  subsets: ["latin"],
-  display: "swap",
-});
-
-export const poppins = Poppins({
-  subsets: ["latin"],
-  weight: ["400", "600", "700"],
-  display: "swap",
-});
+import { inter, poppins } from "./fonts";
 
 export const metadata: Metadata = {
   title: "Jayaleshmi's Protifolio",
