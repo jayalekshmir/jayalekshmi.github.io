@@ -17,7 +17,7 @@ export default function Journey() {
             Packaged App Development Specialist{" "}
           </span>{" "}
           with over
-          <span className="italic font-bold"> 7+ years </span> of experience,
+          <span className="italic font-bold"> 8+ years </span> of experience,
           specializing in frontend technologies. I am passionate about creating
           innovative, user-centric applications that address real-world
           challenges and elevate digital experiences. With a strong expertise in
