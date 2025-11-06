@@ -23,11 +23,7 @@ export default function Journey() {
           challenges and elevate digital experiences. With a strong expertise in
           modern frameworks, a collaborative approach, and a dedication to
           writing clean, scalable code, I consistently aim to deliver
-          high-quality solutions within Agile environments. I am in the process
-          of obtaining my work visa and plan to relocate to New Zealand by
-          September 2025. I am actively seeking a full-time opportunity where I
-          can make meaningful contributions, continue my professional growth,
-          and be part of a forward-thinking team
+          high-quality solutions within Agile environments. I recently obtained my Open Work Visa holder with no restrictions and am now seeking a full-time opportunity where I can make meaningful contributions, continue my professional growth, and be part of a forward-thinking team.
         </p>
         <div></div>
       </div>
