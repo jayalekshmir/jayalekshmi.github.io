@@ -23,7 +23,7 @@ export default function Introduction() {
 
         <p className="mt-4 text-sm lg:text-xl max-w-xl mb-2 lg:mb-4 ">
           A passionate Frontend Developer building modern web experiences with
-          React, Angular, and performance-first principles.
+          React , NextJs, VueJs, NextJs, Angular, and performance-first principles.
         </p>
         <div className="text-2xl lg:text-3xl italic">
           Let’s build something great.
