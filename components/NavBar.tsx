@@ -7,8 +7,8 @@ const NavBar = () => {
       <div className="max-w-[1440px] flex w-full justify-between m-auto px-2 ">
         <Link href={`/`}>JAYALEKSHMI R</Link>
         <div className="hidden md:flex gap-4 ">
-          <Link href={`#work`}>Work</Link>
-          <Link href={`#journey`}>Journey</Link>
+          <Link href={`/#work`}>Work</Link>
+          <Link href={`/#journey`}>Journey</Link>
           <span>Testimonials</span>
           <Link href={`/contact`}>Contact</Link>
           <span>Blog</span>
