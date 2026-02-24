@@ -25,7 +25,7 @@ export default function Introduction() {
           A passionate Frontend Developer building modern web experiences with
           React, Angular, and performance-first principles.
         </p>
-        <div className="text-2xl lg:text-3xl italic text-red-300">
+        <div className="text-2xl lg:text-3xl italic">
           Let’s build something great.
         </div>
         <div className="flex flex-row gap-4 my-4 lg:my-2 lg:my-4 align-center items-center justify-center lg:justify-start">
