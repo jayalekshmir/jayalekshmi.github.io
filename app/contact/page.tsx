@@ -2,7 +2,7 @@ function Contact() {
   return (
     <section className="max-w-[1440px] mx-auto my-4 lg:my-8 flex flex-col items-center justify-center text-left p-2 lg:p-8">
       <h2 className="text-3xl font-semibold mb-6">Get in Touch: Ways to Connect with Me</h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div className="">
         Thank you for your interest in getting in touch with
 							me. I welcome your feedback, questions, and
 							suggestions. If you have a specific question or
