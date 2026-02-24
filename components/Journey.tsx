@@ -23,7 +23,15 @@ export default function Journey() {
           challenges and elevate digital experiences. With a strong expertise in
           modern frameworks, a collaborative approach, and a dedication to
           writing clean, scalable code, I consistently aim to deliver
-          high-quality solutions within Agile environments. I recently obtained my Open Work Visa holder with no restrictions and am now seeking a full-time opportunity where I can make meaningful contributions, continue my professional growth, and be part of a forward-thinking team.
+          high-quality solutions within Agile environments. I am now seeking a full-time opportunity where I can make meaningful contributions, continue my professional growth, and be part of a forward-thinking team.
+
+I am currently seeking opportunities in software development and am available for an immediate start with full working rights in New Zealand.
+
+I bring over 8 years of experience in full-stack development, primarily working with the MERN stack. My frontend expertise includes React, Next.js, Vue (Nuxt.js), and Angular, while on the backend I have experience with Node.js, Java, and basic Python.
+
+If you’re aware of any suitable opportunities or could kindly guide me in the right direction, I would truly appreciate your support.
+
+Thank you very much for your time.
         </p>
         <div></div>
       </div>
