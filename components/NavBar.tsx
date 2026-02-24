@@ -10,9 +10,9 @@ const NavBar = () => {
           <Link href={`/`}>Home</Link>
           <Link href={`/#work`}>Work</Link>
           <Link href={`/#journey`}>Journey</Link>
-          <span>Testimonials</span>
+          
           <Link href={`/contact`}>Contact</Link>
-          <span>Blog</span>
+          
         </div>
         <Link
           href={`https://www.linkedin.com/in/jayalekshmir/`}
