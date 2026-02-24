@@ -38,7 +38,7 @@ export default function Introduction() {
       </div>
       <div className="max-w-2xl max-w-md rounded-l-lg">
         <Image
-          src="/Jayalekshmi.jpg"
+          src="/j.rajeswari.jpg"
           alt="Jayalekshmi picture"
           width={500}
           height={300}
