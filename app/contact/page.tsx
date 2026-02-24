@@ -10,7 +10,7 @@ function Contact() {
 							&nbsp;{" "}
 							<a href={`mailto:jayalekshmirajeswarijoy@gmail.com`}>
 								jayalekshmirajeswarijoy@gmail.com
-							</a>
+							</a> or call me on 0274798616.
 							. I make an effort to respond to all messages within
 							24 hours, although it may take me longer during busy
 							periods. 
