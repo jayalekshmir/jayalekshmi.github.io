@@ -1,6 +1,8 @@
-import { socialLinks } from "@/models/user";
+"use client";
+import { useSelector } from "react-redux";
 
 export default function SocialLinks() {
+  const socialLinks = useSelector((state) => state.user.socialLinks);
   return (
     <div className="flex gap-4 justify-center align-center">
       {socialLinks.slice(0, 3).map((socialLink) => (

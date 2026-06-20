@@ -1,6 +1,9 @@
-import { projects } from "@/models/user";
+"use client";
 import Image from "next/image";
+import { useSelector } from "react-redux";
+
 export default function Work() {
+  const projects = useSelector((state) => state.user.projects);
   return (
     <section
       className="max-w-[1440px] m-auto flex flex-col items-center justify-center text-left p-2 lg:p-8"
