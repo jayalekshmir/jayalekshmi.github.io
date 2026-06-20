@@ -27,7 +27,7 @@ export default function Introduction() {
         <p className="mt-4 text-sm lg:text-xl max-w-xl mb-2 lg:mb-4 ">
           {user.bio}
         </p>
-        <div className="text-2xl lg:text-3xl italic text-red-300">
+        <div className="text-2xl lg:text-3xl italic">
           Let’s build something great.
         </div>
         <div className="flex flex-row gap-4 my-4 lg:my-2 lg:my-4 align-center items-center justify-center lg:justify-start">
@@ -40,7 +40,7 @@ export default function Introduction() {
       </div>
       <div className="max-w-2xl max-w-md rounded-l-lg">
         <Image
-          src="/Jayalekshmi.jpg"
+          src="/j.rajeswari.jpg"
           alt="Jayalekshmi picture"
           width={500}
           height={300}
